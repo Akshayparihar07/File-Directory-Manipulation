@@ -50,7 +50,7 @@ This tool offers the following functionalities:
 ### Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/File-Directory-Manipulation.git
+   git clone https://github.com/Akshayparihar07/File-Directory-Manipulation.git
 
 2. Navigate to the project directory:
 ```cd File-Directory-Manipulation```
